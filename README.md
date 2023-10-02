@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dksah1
 - 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
 <!---
