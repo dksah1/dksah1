@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dksah1
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning Next.js
+- 👋 Hi, I’m Dk sah
+- 👀 I’m interested in MERN stack ,Nextjs,angular,etc...
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
