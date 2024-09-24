@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dk sah
 - 👀 I’m interested in MERN stack ,Nextjs,angular,etc...
-- 🌱 I’m currently working with angular and .net core
+- 🌱 I’m currently working with React Native 
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
